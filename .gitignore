@@ -1,0 +1,10 @@
+target/
+reports/
+testreports/
+screenshots/
+*.iml
+.idea
+.settings
+.project
+.gradle
+.classpath
