@@ -48,11 +48,10 @@
 						<version>1.0.0</version>
 						<executions>
 							<execution>
+								<id>read-properties</id>
 								<phase>initialize</phase>
 								<goals>
-									<goal>
-  							read-project-properties
-  						</goal>
+									<goal>read-project-properties</goal>
 								</goals>
 								<configuration>
 									<files>
@@ -69,6 +68,7 @@
 						<configuration>
 							<systemPropertyVariables>
 								<my.Property>${property.package}</my.Property>
+								<her.Property>${property.version}</her.Property>
 							</systemPropertyVariables>
 						</configuration>
 					</plugin>
