@@ -69,7 +69,7 @@
 							<systemPropertyVariables>
 								<my.Property>${property.package}</my.Property>
 								<her.Property>${property.version}</her.Property>
-								<pathvar>${pathvar}</pathvar>
+								<my.pathvar>${pathvar}</my.pathvar>
 							</systemPropertyVariables>
 						</configuration>
 					</plugin>

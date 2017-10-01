@@ -10,7 +10,7 @@ public class PropertiesTest {
 	public void canGetProperty() {
 		String prop1 = System.getProperty("my.Property");
 		String prop2 = System.getProperty("her.Property");
-		String prop3 = System.getProperty("pathvar");
+		String prop3 = System.getProperty("my.pathvar");
 
 		// System.out.println("..........." + System.getenv("PATH"));
 
