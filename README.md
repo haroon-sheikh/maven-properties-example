@@ -2,7 +2,7 @@
 
 Thank you for visting our repo. :clap:
 
-This is an example project for working with system properties.
+An example project for working with system properties.
 
 ## Prerequisite
  
