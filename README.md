@@ -1,8 +1,8 @@
 # maven-properties-example
 
 An example project for working with system properties.
- 
-## Preconditions
+
+## Pre-requisites
 - Maven / Java 8
 
 ## Get in touch
